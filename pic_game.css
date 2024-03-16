@@ -16,7 +16,7 @@ body {
   font-weight: 400;
   height: 100vh;
   color: #f5f6f7;
-  background-image:url(/image/backraound-dice.jpg) ;
+  background-image:url(image/backraound-dice.jpg) ;
   display: flex;
   align-items: center;
   justify-content: center;
