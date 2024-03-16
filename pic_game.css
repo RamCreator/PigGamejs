@@ -27,7 +27,7 @@ main {
   position: relative;
   width: 100rem;
   height: 60rem;
-  background-image:url(image/backraound-dice.jpg) ;
+  
   background-color: rgba(78, 74, 74, 0.35);
   backdrop-filter: blur(200px);
   filter: blur();
