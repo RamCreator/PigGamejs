@@ -15,7 +15,6 @@ const btnRoll = document.querySelector(".btn--roll")
 const btnHold = document.querySelector(".btn--hold")
 
 
-
 // start condition
  score0.textContent = 0;
  score1.textContent = 0;
